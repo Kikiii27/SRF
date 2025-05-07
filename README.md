@@ -15,5 +15,4 @@ This Streamlit app predicts the Higher Heating Value (HHV) of Solid Recovered Fu
 ## Requirements
 See `requirements.txt` for Python dependencies.
 
-## Author
-Generated with ❤️ by ChatGPT
+## ❤️
